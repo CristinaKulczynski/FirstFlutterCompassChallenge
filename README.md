@@ -35,3 +35,5 @@
 17. Quais ferramentas podemos utilizar para criação de novos apps usando Flutter? IDEs como Android Studio, Visual Studio e IntelliJ. Pacotes Pub e bibliotecas, além de Frameworks compartilhados por usuários do GitHub, como por exemplo SpriteWidget que é uma Game Engine. 
 
 18. Qual a diferença entre uma variável final e uma variável var? Elas tem funções diferentes. A Final siginifica atribuição única, ela pode ser inicializada, porém uma vez que tenha sido atribuido um valor a variável não poderá ser alterada. A variável var significa que não precisamos atribuir um tipo para ela, no entando depois que ela receber o valor, só será permitido fazer transações com o mesmo tipo. 
+
+19. Qual a diferença entre um Statefull e Stateless widget? O Stateless é um Widget estático enquanto o Statefull é mutável através da gerencia de estados.
