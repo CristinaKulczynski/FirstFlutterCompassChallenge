@@ -20,3 +20,5 @@
 
 10. Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles. No PUT acontece a requisição de um recurso para fazer a modificação, mudando todos os dados deste recurso, caso não exista é possível criá-lo. O Patch, serve quando precisamos alterar apenas alguns dados de um recurso, não sendo possível criar um novo recurso a partir dele. Resumindo, o primeiro muda tudo e pode criar recurso e o segundo muda apenas alguns aspectos e não pode criar recurso.
 
+11. Qual o status code que pode ser usado na criação de um novo usuário? 201 CREATED, utilizado como resposta de sucesso, indicando que a requisição foi bem sucedida e que um novo recurso foi criado.
+
