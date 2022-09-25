@@ -41,3 +41,5 @@
 20. Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática? O Flutter é notificado pelo gerenciamento e sobre o que ele precisa redesenhar da forma mais performática possível, economizando o processamento. Uma forma simples de fazer isso é utilizando o setSate (função da classe Stateful Widget) que vem nativamente com o Flutter. 
 
 21. Qual a finalidade dos métodos initState e dispose? O initState é chamado quando o Widget é incrementado e o dispose quando ele for removido permanetemente.
+
+22. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora: Foi agradável e intensa, pois "maratonei" os cursos disponibilizados da primeira Sprint e a partir deles pude aprender novos conceitos que serão comumente utilizados. Minhas expectativas são que além dos desafios de criar aplicações possamos também continuar respondendo questionários, já que elas melhoram a fixação do conteúdo estudado. 
