@@ -18,3 +18,5 @@
  
 9. Qual a diferença entre git e github? O GitHub é um serviço de hospedagem web para o repositório de controle de versão Git, como uma rede para compartilhameto de códigos e projetos entre desenvolvedores. O Git não permite a vizualização em tempo real das mudanças, ao contrário do Github. Outra diferença é a interface que eles possuem, sendo uma intuitiva e de fpacil comprensão enquanto a outra demanda um pouco mais de tempo para a adaptação. 
 
+10. Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles. No PUT acontece a requisição de um recurso para fazer a modificação, mudando todos os dados deste recurso, caso não exista é possível criá-lo. O Patch, serve quando precisamos alterar apenas alguns dados de um recurso, não sendo possível criar um novo recurso a partir dele. Resumindo, o primeiro muda tudo e pode criar recurso e o segundo muda apenas alguns aspectos e não pode criar recurso.
+
