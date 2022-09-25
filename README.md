@@ -33,3 +33,5 @@
 16. Como inicio um novo projeto com Flutter? Com uma IDE de sua preferência instalada (Android Studio, IntelliJ), baixe os plugins necessários de Dart e Flutter e o Android SDK. Depois crie um emulador android. Clique respectivamente em File, New, New Project Flutter. Configure e comece a codar.
 
 17. Quais ferramentas podemos utilizar para criação de novos apps usando Flutter? IDEs como Android Studio, Visual Studio e IntelliJ. Pacotes Pub e bibliotecas, além de Frameworks compartilhados por usuários do GitHub, como por exemplo SpriteWidget que é uma Game Engine. 
+
+18. Qual a diferença entre uma variável final e uma variável var? Elas tem funções diferentes. A Final siginifica atribuição única, ela pode ser inicializada, porém uma vez que tenha sido atribuido um valor a variável não poderá ser alterada. A variável var significa que não precisamos atribuir um tipo para ela, no entando depois que ela receber o valor, só será permitido fazer transações com o mesmo tipo. 
