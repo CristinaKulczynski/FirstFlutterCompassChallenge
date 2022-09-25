@@ -22,3 +22,5 @@
 
 11. Qual o status code que pode ser usado na criação de um novo usuário? 201 CREATED, utilizado como resposta de sucesso, indicando que a requisição foi bem sucedida e que um novo recurso foi criado.
 
+12. Quais são os três status code que modem ser utilizados para realizar o delete? Eles são: 200(Ok) ação realizada; 202(Accepted) se a ação provavelmente teve sucesso, porém ainda não foi realizada; 204(No Content) se a ação foi realizada e nenhuma outra informação deve ser fornecida.
+
