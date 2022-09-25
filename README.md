@@ -7,3 +7,5 @@
 3. O que é Git? É um sistema de controle de versões, apesar de ser comumente utilizado para o desenvolvimento de softwares pode ser usado para registrar edições de uma grande variedade de arquivos. A estrutura empregada para organizar os arquivos no Git são os repositórios que contém os históricos completos das mudanças.
 
 4. O que é um scrum Product Owener? É o(a) representante do cliente em um time de Scrum, que o "mediador" entre o cliente e a equipe de desenvolvimento. 
+
+5. Qual o comando para a criação de um novo repositório no Git? 
