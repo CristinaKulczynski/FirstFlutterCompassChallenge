@@ -8,4 +8,4 @@
 
 4. O que é um scrum Product Owener? É o(a) representante do cliente em um time de Scrum, que o "mediador" entre o cliente e a equipe de desenvolvimento. 
 
-5. Qual o comando para a criação de um novo repositório no Git? 
+5. Qual o comando para a criação de um novo repositório no Git? git init
