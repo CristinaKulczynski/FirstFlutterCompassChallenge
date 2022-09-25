@@ -32,3 +32,4 @@
 
 16. Como inicio um novo projeto com Flutter? Com uma IDE de sua preferência instalada (Android Studio, IntelliJ), baixe os plugins necessários de Dart e Flutter e o Android SDK. Depois crie um emulador android. Clique respectivamente em File, New, New Project Flutter. Configure e comece a codar.
 
+17. Quais ferramentas podemos utilizar para criação de novos apps usando Flutter? IDEs como Android Studio, Visual Studio e IntelliJ. Pacotes Pub e bibliotecas, além de Frameworks compartilhados por usuários do GitHub, como por exemplo SpriteWidget que é uma Game Engine. 
