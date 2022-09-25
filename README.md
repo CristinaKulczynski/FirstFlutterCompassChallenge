@@ -11,3 +11,6 @@
 5. Qual o comando para a criação de um novo repositório no Git? git init
 
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? git add .
+
+7. O que é a Branch master e para que serve? A Branch master é a parte principal do projeto, também chamada de ramo, servindo como base para novas ramificações, estas que permitem encapsular as mudanças e assegurar que códigos instáveis não sejam mesclados. 
+8. 
