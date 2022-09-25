@@ -27,3 +27,7 @@
 13. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! São listas de códigos de resposta em HTTP, respectivamente Informativa, Sucesso, Redirecionamento, Erro de cliente e Outros Erros.
 
 14. O que é a linguagem de programação Dart? Dart é uma linguagem de programção multi-paradigma utilizada para o desenvolvimento de aplicações web, móveis e descktop, também apresenta fortes estrutuas típicas de linguagens orientadas a objeto. Surgiu com o intuito de substituir o JavaScript, porém não obteve sucesso nesse quesito. 
+
+15. O que é o Flutter? É um framework de interface de usuário de código aberto. Perminte o desenvolvimento de aplicações multiplataforma, tranformando o código em Dart na linguagem nativa das plataformas selecionadas. 
+
+
