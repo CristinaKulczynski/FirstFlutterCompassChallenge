@@ -30,4 +30,5 @@
 
 15. O que é o Flutter? É um framework de interface de usuário de código aberto. Perminte o desenvolvimento de aplicações multiplataforma, tranformando o código em Dart na linguagem nativa das plataformas selecionadas. 
 
+16. Como inicio um novo projeto com Flutter? Com uma IDE de sua preferência instalada (Android Studio, IntelliJ), baixe os plugins necessários de Dart e Flutter e o Android SDK. Depois crie um emulador android. Clique respectivamente em File, New, New Project Flutter. Configure e comece a codar.
 
