@@ -13,4 +13,8 @@
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? git add .
 
 7. O que é a Branch master e para que serve? A Branch master é a parte principal do projeto, também chamada de ramo, servindo como base para novas ramificações, estas que permitem encapsular as mudanças e assegurar que códigos instáveis não sejam mesclados. 
-8. 
+
+8. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? git pull ou git pull <repositório> master e git merge
+ 
+9. Qual a diferença entre git e github? O GitHub é um serviço de hospedagem web para o repositório de controle de versão Git, como uma rede para compartilhameto de códigos e projetos entre desenvolvedores. O Git não permite a vizualização em tempo real das mudanças, ao contrário do Github. Outra diferença é a interface que eles possuem, sendo uma intuitiva e de fpacil comprensão enquanto a outra demanda um pouco mais de tempo para a adaptação. 
+
